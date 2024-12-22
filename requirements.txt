@@ -3,5 +3,6 @@ st-gsheets-connection
 datetime
 pandas
 joblib
+sklearn
 # ProcessingModel
 # KMeansModel
