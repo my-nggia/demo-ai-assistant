@@ -1,0 +1,510 @@
+Question,Category
+Which product category has the lowest revenue?,Product Analysis
+How many sales transactions occurred last year?,Sales Analysis
+How many customers belong to Cluster 0?,RFM Clustering
+What is the sales trend over the last quarter?,Sales Analysis
+What is the average transaction value?,Sales Analysis
+Which customers are in Cluster 1?,Customer Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which customer spent the most?,Customer Analysis
+How many customers belong to Cluster 2?,RFM Clustering
+Which cluster represents high-value customers?,RFM Clustering
+What is the average Monetary value in Cluster 4?,RFM Clustering
+What is the average Monetary value in Cluster 0?,RFM Clustering
+Which product category generates the most revenue?,Sales Analysis
+Which country buys the most?,Country Analysis
+Which country has the lowest revenue?,Country Analysis
+Which product is the best-seller?,Product Analysis
+Which product category has the highest sales?,Product Analysis
+Which product has the least sales?,Product Analysis
+Which country buys the most?,Country Analysis
+What is the least active country in terms of sales?,Country Analysis
+Which customers are in Cluster 1?,Customer Analysis
+Which product category generates the most revenue?,Sales Analysis
+What is the average Recency in Cluster 0?,RFM Clustering
+What is the average transaction value?,Sales Analysis
+Which customer spent the most?,Customer Analysis
+What is the total revenue for Product 180?,Product Analysis
+Which product category generates the most revenue?,Sales Analysis
+Which country has the highest revenue?,Country Analysis
+Which product has the least sales?,Product Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which product category has the lowest revenue?,Product Analysis
+Which country has the lowest revenue?,Country Analysis
+What is the least active country in terms of sales?,Country Analysis
+Which product category has the lowest revenue?,Product Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+Which customer spent the most?,Customer Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which country has the lowest revenue?,Country Analysis
+What is the total spending of customers in Cluster 3?,Customer Analysis
+Which product category has the lowest revenue?,Product Analysis
+Which cluster represents high-value customers?,RFM Clustering
+How many customers belong to Cluster 1?,RFM Clustering
+What is the average transaction value?,Sales Analysis
+Which customer spent the most?,Customer Analysis
+Which customers are in Cluster 4?,Customer Analysis
+Which country has the highest revenue?,Country Analysis
+Which customer spent the most?,Customer Analysis
+Which product category has the highest sales?,Product Analysis
+Which country has the highest revenue?,Country Analysis
+Which country has the lowest revenue?,Country Analysis
+Which customers are in Cluster 2?,Customer Analysis
+Which product category has the highest sales?,Product Analysis
+Which country has the lowest revenue?,Country Analysis
+Which country buys the most?,Country Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which customers are in Cluster 1?,Customer Analysis
+Which product category generates the most revenue?,Sales Analysis
+Which country buys the most?,Country Analysis
+Which product category generates the most revenue?,Sales Analysis
+What is the total revenue for the last month?,Sales Analysis
+What is the total revenue for the last month?,Sales Analysis
+Who is the least customer?,Customer Analysis
+What is the average Monetary value in Cluster 1?,RFM Clustering
+Which country has the lowest revenue?,Country Analysis
+What is the total revenue for the last month?,Sales Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which country has the highest revenue?,Country Analysis
+Which customer spent the most?,Customer Analysis
+What is the average Recency in Cluster 1?,RFM Clustering
+Which product category has the highest sales?,Product Analysis
+Who is the top customer?,Customer Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+Which country buys the most?,Country Analysis
+Who is the top customer?,Customer Analysis
+Which product is the best-seller?,Product Analysis
+Which product category has the lowest revenue?,Product Analysis
+Who is the top customer?,Customer Analysis
+What is the total revenue for Product 186?,Product Analysis
+Who is the least customer?,Customer Analysis
+Who is the top customer?,Customer Analysis
+What is the average Recency in Cluster 2?,RFM Clustering
+Which product category has the highest sales?,Product Analysis
+Which customer spent the most?,Customer Analysis
+What is the total spending of customers in Cluster 1?,Customer Analysis
+Which customers are in Cluster 2?,Customer Analysis
+Which product has the least sales?,Product Analysis
+Which customers are in Cluster 2?,Customer Analysis
+What is the average Monetary value in Cluster 1?,RFM Clustering
+Which product category generates the most revenue?,Sales Analysis
+Which product category generates the most revenue?,Sales Analysis
+Which cluster represents high-value customers?,RFM Clustering
+What is the average Monetary value in Cluster 3?,RFM Clustering
+What is the average Recency in Cluster 1?,RFM Clustering
+What is the least active country in terms of sales?,Country Analysis
+What is the total revenue for Product 138?,Product Analysis
+Which customer spent the most?,Customer Analysis
+What is the total revenue for the last month?,Sales Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which customers are in Cluster 0?,Customer Analysis
+Which country buys the most?,Country Analysis
+Which product category generates the most revenue?,Sales Analysis
+What is the total revenue for Product 151?,Product Analysis
+What is the cluster distribution?,RFM Clustering
+How many sales transactions occurred last year?,Sales Analysis
+What is the total revenue for the last month?,Sales Analysis
+Which product category has the lowest revenue?,Product Analysis
+What is the total revenue for the last month?,Sales Analysis
+Which country has the highest revenue?,Country Analysis
+Which product category has the highest sales?,Product Analysis
+What is the total revenue for Product 185?,Product Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which product category generates the most revenue?,Sales Analysis
+Which country has the highest revenue?,Country Analysis
+Which product category has the highest sales?,Product Analysis
+What is the average transaction value?,Sales Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which product category generates the most revenue?,Sales Analysis
+Who is the top customer?,Customer Analysis
+How many customers do we have from {}?,Country Analysis
+Which country buys the most?,Country Analysis
+What is the total revenue for the last month?,Sales Analysis
+Which product category generates the most revenue?,Sales Analysis
+Who is the least customer?,Customer Analysis
+Which customers are in Cluster 1?,Customer Analysis
+What is the least active country in terms of sales?,Country Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+Which country buys the most?,Country Analysis
+Which product is the best-seller?,Product Analysis
+Which customers are in Cluster 2?,Customer Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+What is the least active country in terms of sales?,Country Analysis
+Which customers are in Cluster 1?,Customer Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which country has the highest revenue?,Country Analysis
+Which product has the least sales?,Product Analysis
+How many customers do we have from {}?,Country Analysis
+Which product has the least sales?,Product Analysis
+What is the total spending of customers in Cluster 3?,Customer Analysis
+Which product is the best-seller?,Product Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which customer spent the most?,Customer Analysis
+What is the least active country in terms of sales?,Country Analysis
+Which product category has the highest sales?,Product Analysis
+What is the average transaction value?,Sales Analysis
+Who is the least customer?,Customer Analysis
+What is the total spending of customers in Cluster 1?,Customer Analysis
+Which country has the lowest revenue?,Country Analysis
+Which product category has the highest sales?,Product Analysis
+Which product is the best-seller?,Product Analysis
+Which country has the lowest revenue?,Country Analysis
+Which country has the highest revenue?,Country Analysis
+Which customers are in Cluster 4?,Customer Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+What is the least active country in terms of sales?,Country Analysis
+Who is the least customer?,Customer Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which country has the lowest revenue?,Country Analysis
+What is the total revenue for the last month?,Sales Analysis
+What is the least active country in terms of sales?,Country Analysis
+What is the average Recency in Cluster 1?,RFM Clustering
+What is the average Monetary value in Cluster 2?,RFM Clustering
+How many customers do we have from {}?,Country Analysis
+What is the total revenue for Product 166?,Product Analysis
+What is the total spending of customers in Cluster 4?,Customer Analysis
+What is the average Recency in Cluster 3?,RFM Clustering
+What is the total revenue for the last month?,Sales Analysis
+What is the least active country in terms of sales?,Country Analysis
+What is the average Monetary value in Cluster 3?,RFM Clustering
+Which country has the lowest revenue?,Country Analysis
+Which country has the highest revenue?,Country Analysis
+Which product category has the highest sales?,Product Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Who is the top customer?,Customer Analysis
+What is the total revenue for Product 145?,Product Analysis
+Which product has the least sales?,Product Analysis
+Which country has the lowest revenue?,Country Analysis
+What is the average transaction value?,Sales Analysis
+Which country has the highest revenue?,Country Analysis
+What is the total spending of customers in Cluster 0?,Customer Analysis
+Which country has the highest revenue?,Country Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+What is the least active country in terms of sales?,Country Analysis
+What is the average transaction value?,Sales Analysis
+What is the average transaction value?,Sales Analysis
+What is the average Monetary value in Cluster 4?,RFM Clustering
+Which product category has the highest sales?,Product Analysis
+How many customers belong to Cluster 0?,RFM Clustering
+What is the average Monetary value in Cluster 2?,RFM Clustering
+What is the total revenue for Product 189?,Product Analysis
+What is the average transaction value?,Sales Analysis
+What is the average transaction value?,Sales Analysis
+Which product category has the highest sales?,Product Analysis
+What is the least active country in terms of sales?,Country Analysis
+Which product has the least sales?,Product Analysis
+Which product category has the lowest revenue?,Product Analysis
+What is the total revenue for Product 186?,Product Analysis
+What is the least active country in terms of sales?,Country Analysis
+Which product category has the lowest revenue?,Product Analysis
+Which customers are in Cluster 2?,Customer Analysis
+What is the least active country in terms of sales?,Country Analysis
+How many customers belong to Cluster 1?,RFM Clustering
+Who is the least customer?,Customer Analysis
+Which customers are in Cluster 2?,Customer Analysis
+Which customer spent the most?,Customer Analysis
+What is the total revenue for the last month?,Sales Analysis
+Which product category has the highest sales?,Product Analysis
+Which product category generates the most revenue?,Sales Analysis
+Who is the least customer?,Customer Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which country has the lowest revenue?,Country Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which country has the lowest revenue?,Country Analysis
+What is the total spending of customers in Cluster 4?,Customer Analysis
+Which product category has the highest sales?,Product Analysis
+What is the cluster distribution?,RFM Clustering
+Which product has the least sales?,Product Analysis
+Who is the least customer?,Customer Analysis
+What is the average Monetary value in Cluster 0?,RFM Clustering
+What is the total revenue for Product 165?,Product Analysis
+What is the total revenue for the last month?,Sales Analysis
+Who is the least customer?,Customer Analysis
+Who is the top customer?,Customer Analysis
+How many customers do we have from {}?,Country Analysis
+Who is the least customer?,Customer Analysis
+Which product category has the highest sales?,Product Analysis
+How many sales transactions occurred last year?,Sales Analysis
+How many customers belong to Cluster 2?,RFM Clustering
+What is the total revenue for the last month?,Sales Analysis
+Who is the least customer?,Customer Analysis
+How many customers belong to Cluster 2?,RFM Clustering
+Which product category has the lowest revenue?,Product Analysis
+How many sales transactions occurred last year?,Sales Analysis
+What is the total revenue for Product 158?,Product Analysis
+Which product is the best-seller?,Product Analysis
+How many sales transactions occurred last year?,Sales Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which product has the least sales?,Product Analysis
+What is the average Monetary value in Cluster 4?,RFM Clustering
+How many sales transactions occurred last year?,Sales Analysis
+Which product category has the lowest revenue?,Product Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+Which country has the lowest revenue?,Country Analysis
+What is the average Monetary value in Cluster 1?,RFM Clustering
+Which product has the least sales?,Product Analysis
+Which country has the lowest revenue?,Country Analysis
+Which product category generates the most revenue?,Sales Analysis
+Which product category has the lowest revenue?,Product Analysis
+How many sales transactions occurred last year?,Sales Analysis
+What is the total revenue for the last month?,Sales Analysis
+Which cluster represents high-value customers?,RFM Clustering
+What is the total spending of customers in Cluster 1?,Customer Analysis
+What is the average Monetary value in Cluster 3?,RFM Clustering
+Who is the least customer?,Customer Analysis
+What is the total revenue for the last month?,Sales Analysis
+How many customers belong to Cluster 1?,RFM Clustering
+Which country has the highest revenue?,Country Analysis
+Which country has the lowest revenue?,Country Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+Who is the least customer?,Customer Analysis
+What is the average transaction value?,Sales Analysis
+How many customers belong to Cluster 2?,RFM Clustering
+What is the total spending of customers in Cluster 3?,Customer Analysis
+Who is the least customer?,Customer Analysis
+How many customers belong to Cluster 4?,RFM Clustering
+What is the average Recency in Cluster 2?,RFM Clustering
+Which cluster represents high-value customers?,RFM Clustering
+What is the total spending of customers in Cluster 4?,Customer Analysis
+What is the average transaction value?,Sales Analysis
+What is the cluster distribution?,RFM Clustering
+Who is the top customer?,Customer Analysis
+Which country has the highest revenue?,Country Analysis
+Which product is the best-seller?,Product Analysis
+What is the average Monetary value in Cluster 3?,RFM Clustering
+Which country has the highest revenue?,Country Analysis
+Which product category has the lowest revenue?,Product Analysis
+Which product category has the lowest revenue?,Product Analysis
+What is the total spending of customers in Cluster 0?,Customer Analysis
+Which customer spent the most?,Customer Analysis
+What is the total revenue for the last month?,Sales Analysis
+Which product is the best-seller?,Product Analysis
+What is the average Monetary value in Cluster 1?,RFM Clustering
+What is the least active country in terms of sales?,Country Analysis
+Which customers are in Cluster 4?,Customer Analysis
+Which product has the least sales?,Product Analysis
+How many customers do we have from {}?,Country Analysis
+Which country has the lowest revenue?,Country Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+What is the total revenue for the last month?,Sales Analysis
+What is the least active country in terms of sales?,Country Analysis
+What is the average transaction value?,Sales Analysis
+How many sales transactions occurred last year?,Sales Analysis
+What is the average transaction value?,Sales Analysis
+What is the average Recency in Cluster 1?,RFM Clustering
+What is the total revenue for the last month?,Sales Analysis
+Which product category generates the most revenue?,Sales Analysis
+Which product category has the lowest revenue?,Product Analysis
+Who is the top customer?,Customer Analysis
+How many customers do we have from {}?,Country Analysis
+Which product category has the highest sales?,Product Analysis
+How many customers belong to Cluster 4?,RFM Clustering
+Which product has the least sales?,Product Analysis
+Which customer spent the most?,Customer Analysis
+What is the average transaction value?,Sales Analysis
+What is the average Monetary value in Cluster 2?,RFM Clustering
+What is the total revenue for Product 119?,Product Analysis
+Who is the least customer?,Customer Analysis
+Which product category has the highest sales?,Product Analysis
+What is the total revenue for the last month?,Sales Analysis
+Which product category has the lowest revenue?,Product Analysis
+What is the total revenue for Product 176?,Product Analysis
+Which product category generates the most revenue?,Sales Analysis
+Which country has the lowest revenue?,Country Analysis
+Which customer spent the most?,Customer Analysis
+What is the average transaction value?,Sales Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which cluster represents high-value customers?,RFM Clustering
+How many customers do we have from {}?,Country Analysis
+Which country has the lowest revenue?,Country Analysis
+Which country has the lowest revenue?,Country Analysis
+What is the average Recency in Cluster 0?,RFM Clustering
+What is the least active country in terms of sales?,Country Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which country has the highest revenue?,Country Analysis
+What is the total revenue for the last month?,Sales Analysis
+Which customers are in Cluster 2?,Customer Analysis
+How many customers belong to Cluster 4?,RFM Clustering
+Which cluster represents high-value customers?,RFM Clustering
+What is the total spending of customers in Cluster 2?,Customer Analysis
+Which product category has the lowest revenue?,Product Analysis
+Which product category generates the most revenue?,Sales Analysis
+Which product category generates the most revenue?,Sales Analysis
+What is the least active country in terms of sales?,Country Analysis
+Who is the least customer?,Customer Analysis
+What is the least active country in terms of sales?,Country Analysis
+How many sales transactions occurred last year?,Sales Analysis
+What is the total revenue for Product 105?,Product Analysis
+Which product category has the highest sales?,Product Analysis
+How many customers belong to Cluster 3?,RFM Clustering
+Which country buys the most?,Country Analysis
+What is the total revenue for the last month?,Sales Analysis
+Which country has the highest revenue?,Country Analysis
+Which country has the highest revenue?,Country Analysis
+How many customers belong to Cluster 4?,RFM Clustering
+Which country has the lowest revenue?,Country Analysis
+How many customers belong to Cluster 2?,RFM Clustering
+Which country has the highest revenue?,Country Analysis
+Who is the top customer?,Customer Analysis
+What is the total revenue for the last month?,Sales Analysis
+How many customers do we have from {}?,Country Analysis
+Which product has the least sales?,Product Analysis
+How many customers do we have from {}?,Country Analysis
+Which product category has the lowest revenue?,Product Analysis
+What is the total revenue for the last month?,Sales Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which product has the least sales?,Product Analysis
+Who is the top customer?,Customer Analysis
+Who is the least customer?,Customer Analysis
+Which product category generates the most revenue?,Sales Analysis
+How many customers belong to Cluster 0?,RFM Clustering
+Who is the top customer?,Customer Analysis
+What is the total revenue for Product 102?,Product Analysis
+Which country has the highest revenue?,Country Analysis
+How many customers do we have from {}?,Country Analysis
+Which country has the highest revenue?,Country Analysis
+What is the average Monetary value in Cluster 2?,RFM Clustering
+Who is the top customer?,Customer Analysis
+Which customers are in Cluster 3?,Customer Analysis
+Which product is the best-seller?,Product Analysis
+Who is the top customer?,Customer Analysis
+Which country has the highest revenue?,Country Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+How many customers do we have from {}?,Country Analysis
+Which country has the highest revenue?,Country Analysis
+Which country has the highest revenue?,Country Analysis
+What is the total revenue for Product 136?,Product Analysis
+What is the average Recency in Cluster 3?,RFM Clustering
+Which country has the lowest revenue?,Country Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which customers are in Cluster 3?,Customer Analysis
+What is the total revenue for the last month?,Sales Analysis
+How many customers belong to Cluster 3?,RFM Clustering
+Who is the top customer?,Customer Analysis
+How many customers belong to Cluster 0?,RFM Clustering
+How many sales transactions occurred last year?,Sales Analysis
+What is the total revenue for Product 145?,Product Analysis
+Which cluster represents high-value customers?,RFM Clustering
+What is the total spending of customers in Cluster 2?,Customer Analysis
+Which product is the best-seller?,Product Analysis
+Which product category has the lowest revenue?,Product Analysis
+How many customers do we have from {}?,Country Analysis
+Which customer spent the most?,Customer Analysis
+How many customers belong to Cluster 0?,RFM Clustering
+How many sales transactions occurred last year?,Sales Analysis
+How many sales transactions occurred last year?,Sales Analysis
+What is the average Monetary value in Cluster 2?,RFM Clustering
+What is the sales trend over the last quarter?,Sales Analysis
+Which product is the best-seller?,Product Analysis
+What is the cluster distribution?,RFM Clustering
+What is the total spending of customers in Cluster 3?,Customer Analysis
+Which country has the highest revenue?,Country Analysis
+Which country buys the most?,Country Analysis
+What is the average Recency in Cluster 4?,RFM Clustering
+What is the average Monetary value in Cluster 2?,RFM Clustering
+What is the average transaction value?,Sales Analysis
+How many customers belong to Cluster 2?,RFM Clustering
+Which product has the least sales?,Product Analysis
+Which product category generates the most revenue?,Sales Analysis
+How many customers do we have from {}?,Country Analysis
+Which country buys the most?,Country Analysis
+Which product category has the lowest revenue?,Product Analysis
+What is the total revenue for the last month?,Sales Analysis
+What is the cluster distribution?,RFM Clustering
+What is the cluster distribution?,RFM Clustering
+What is the total spending of customers in Cluster 0?,Customer Analysis
+What is the least active country in terms of sales?,Country Analysis
+Which product category has the highest sales?,Product Analysis
+How many customers do we have from {}?,Country Analysis
+Who is the least customer?,Customer Analysis
+Which country has the lowest revenue?,Country Analysis
+Which customers are in Cluster 2?,Customer Analysis
+What is the least active country in terms of sales?,Country Analysis
+Which customer spent the most?,Customer Analysis
+Which product has the least sales?,Product Analysis
+What is the average Recency in Cluster 0?,RFM Clustering
+Which country has the lowest revenue?,Country Analysis
+What is the total spending of customers in Cluster 4?,Customer Analysis
+What is the total spending of customers in Cluster 4?,Customer Analysis
+Who is the top customer?,Customer Analysis
+What is the total revenue for the last month?,Sales Analysis
+What is the total spending of customers in Cluster 0?,Customer Analysis
+Which product has the least sales?,Product Analysis
+Who is the least customer?,Customer Analysis
+What is the average transaction value?,Sales Analysis
+Which product category has the highest sales?,Product Analysis
+What is the average Recency in Cluster 3?,RFM Clustering
+What is the average transaction value?,Sales Analysis
+What is the average Recency in Cluster 3?,RFM Clustering
+What is the total spending of customers in Cluster 4?,Customer Analysis
+Which country has the lowest revenue?,Country Analysis
+How many customers do we have from {}?,Country Analysis
+Which product is the best-seller?,Product Analysis
+How many customers do we have from {}?,Country Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which country has the lowest revenue?,Country Analysis
+Which product category has the lowest revenue?,Product Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which product category has the highest sales?,Product Analysis
+Which customers are in Cluster 2?,Customer Analysis
+Which product category generates the most revenue?,Sales Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+What is the sales trend over the last quarter?,Sales Analysis
+Which country buys the most?,Country Analysis
+What is the least active country in terms of sales?,Country Analysis
+Who is the least customer?,Customer Analysis
+Who is the least customer?,Customer Analysis
+Who is the top customer?,Customer Analysis
+Which customer spent the most?,Customer Analysis
+What is the average Recency in Cluster 2?,RFM Clustering
+How many customers belong to Cluster 0?,RFM Clustering
+Which country has the lowest revenue?,Country Analysis
+What is the cluster distribution?,RFM Clustering
+What is the least active country in terms of sales?,Country Analysis
+Which product has the least sales?,Product Analysis
+Who is the least customer?,Customer Analysis
+What is the total revenue for Product 182?,Product Analysis
+What is the average transaction value?,Sales Analysis
+Which cluster represents high-value customers?,RFM Clustering
+What is the average Recency in Cluster 3?,RFM Clustering
+Which customer spent the most?,Customer Analysis
+Which country has the lowest revenue?,Country Analysis
+What is the total revenue for the last month?,Sales Analysis
+Who is the least customer?,Customer Analysis
+How many customers do we have from {}?,Country Analysis
+What is the total revenue for Product 101?,Product Analysis
+Who is the least customer?,Customer Analysis
+What is the average Recency in Cluster 3?,RFM Clustering
+Which customer spent the most?,Customer Analysis
+Which cluster represents high-value customers?,RFM Clustering
+Which product category has the highest sales?,Product Analysis
+Which product category has the lowest revenue?,Product Analysis
+How many sales transactions occurred last year?,Sales Analysis
+How many sales transactions occurred last year?,Sales Analysis
+What is the total spending of customers in Cluster 4?,Customer Analysis
+Which product category has the highest sales?,Product Analysis
+What is the average transaction value?,Sales Analysis
+Who is the least customer?,Customer Analysis
+Which product category has the highest sales?,Product Analysis
+Which product category has the lowest sales?,Product Analysis
+Which product category has the best sales?,Product Analysis
+Which product category has the worst sales?,Product Analysis
+What is the total spending of customers in Cluster 4?,Customer Analysis
+What is the total revenue for the last month?,Sales Analysis
+What is the total spending of customers in Cluster 0?,Customer Analysis
+How many sales transactions occurred last year?,Sales Analysis
+Which product is the best-seller?,Product Analysis
+What is the cluster distribution?,RFM Clustering
+Who is the least customer?,Customer Analysis
+Who is the top customer?,Customer Analysis
+What is the average Monetary value in Cluster 0?,RFM Clustering
+What is the RFM clusters?,RFM Clustering
+Show me the RFM clusters, RFM Clustering
+Customer Segmentation using RFM, RFM Clustering
+How many clusters? RFM Clustering
+What are the worst-selling products this quarter?,Product Analysis
+RFM clustering,RFM Clustering
